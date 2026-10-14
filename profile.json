@@ -1,0 +1,10 @@
+{
+  "title": "safwanov@github: ~",
+  "rows": [
+    ["Name", "Your name here"],
+    ["Now", "What you are working on right now"],
+    ["Prev", "Previous studies or experience"],
+    ["Stack", "Languages and tools you use"],
+    ["Highlights", "One or two things you are proud of"]
+  ]
+}
